@@ -2,7 +2,7 @@
 
 ### QA Engineer | Test Automation | AI-assisted QA
 
-I'm a QA Engineer with **2+ years of experience** testing web and mobile applications, REST APIs, and backend systems. I focus on software quality, test automation, and using AI-powered tools to improve QA workflows.
+I'm a QA Engineer with **3+ years of experience** testing web and mobile applications, REST APIs, and backend systems. I focus on software quality, test automation, and using AI-powered tools to improve QA workflows.
 
 - 🔍 Experienced in functional, regression, integration, exploratory, and end-to-end testing
 - 🔌 API testing with **Postman, Swagger, and REST APIs**
